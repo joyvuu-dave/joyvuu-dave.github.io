@@ -20,6 +20,7 @@ export default class Body extends Component {
             <ul>
               <li>Ruby</li>
               <li>JavaScript</li>
+              <li><a href="https://www.codeeval.com/profile/joyvuu-dave/" target="_blank">CodeEval</a></li>
             </ul>
           </td>
         </tr>
